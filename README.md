@@ -5,7 +5,7 @@ Una aplicación móvil multiplataforma para registrar los datos de los ejercicio
 ## Responsables
 
 * Alex Useda (@_useda)
-* Sebastian Hernández (@)
+* Sebastian Hernández (@Ingeñero)
 * Jhonathan Romero (@El_Loco)
 
 ## Tecnologías
