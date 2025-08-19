@@ -2,6 +2,12 @@
 
 Una aplicación móvil multiplataforma para registrar los datos de los ejercicios que realizas, analizarlos y generar información de valor.
 
+## Responsables
+
+* Alex Useda (@_useda)
+* Sebastian Hernández (@)
+* Jhonathan Romero (@El_Loco)
+
 ## Tecnologías
 
 * Flutter
